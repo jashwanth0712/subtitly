@@ -1,0 +1,93 @@
+[
+  {
+    "text": "So",
+    "startMs": 110,
+    "endMs": 140,
+    "timestampMs": 560,
+    "confidence": 0.868631
+  },
+  {
+    "text": " this",
+    "startMs": 140,
+    "endMs": 420,
+    "timestampMs": 820,
+    "confidence": 0.851507
+  },
+  {
+    "text": " is",
+    "startMs": 420,
+    "endMs": 560,
+    "timestampMs": 920,
+    "confidence": 0.993093
+  },
+  {
+    "text": " a",
+    "startMs": 560,
+    "endMs": 630,
+    "timestampMs": 1100,
+    "confidence": 0.985285
+  },
+  {
+    "text": " sample",
+    "startMs": 630,
+    "endMs": 1050,
+    "timestampMs": 1420,
+    "confidence": 0.993961
+  },
+  {
+    "text": " video",
+    "startMs": 1050,
+    "endMs": 1400,
+    "timestampMs": 1720,
+    "confidence": 0.911266
+  },
+  {
+    "text": " of",
+    "startMs": 1400,
+    "endMs": 1540,
+    "timestampMs": 2180,
+    "confidence": 0.989157
+  },
+  {
+    "text": " myself.",
+    "startMs": 1540,
+    "endMs": 2720,
+    "timestampMs": 2640,
+    "confidence": 0.984136
+  },
+  {
+    "text": " Let's",
+    "startMs": 2720,
+    "endMs": 2980,
+    "timestampMs": 2980,
+    "confidence": 0.856651
+  },
+  {
+    "text": " see",
+    "startMs": 2980,
+    "endMs": 3140,
+    "timestampMs": 3140,
+    "confidence": 0.993318
+  },
+  {
+    "text": " how",
+    "startMs": 3140,
+    "endMs": 3300,
+    "timestampMs": 3320,
+    "confidence": 0.955826
+  },
+  {
+    "text": " this",
+    "startMs": 3300,
+    "endMs": 3520,
+    "timestampMs": 3600,
+    "confidence": 0.949238
+  },
+  {
+    "text": " works",
+    "startMs": 3520,
+    "endMs": 3820,
+    "timestampMs": 3800,
+    "confidence": 0.978623
+  }
+]
